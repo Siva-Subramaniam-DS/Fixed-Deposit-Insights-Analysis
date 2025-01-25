@@ -1,0 +1,201 @@
+Customer ID,Name,Age,Gender,Address,Contact Number,Email ID,Income Level,Occupation,FD ID,Bank Name,Deposit Date,Maturity Date,Principal Amount,Interest Rate (%),Compounding Frequency,Maturity Amount,Tenure (Years),Penalty on Premature Withdrawal (%),Auto Renewal,Deposit Mode,Withdrawal Status,Premature Withdrawal Date,Penalty Amount,TDS Deducted,Nominee Name,Nominee Relation,Branch Code,Remarks,Customer Type
+a989b717-0a12-49e2-91ab-f38cdff2eb44,Jordan Holloway,62,Male,"15603 Anderson Unions
+New James, DE 10048",824.717.9220x3346,reedcynthia@lara.com,Medium,Salaried,33d0e927-ddd0-4508-895a-769544c24aa4,Bank B,2024-03-31,2034-03-31,725305,7.8,Quarterly,1537121.79,10,2,No,Cheque,Withdrawn,,3326,72530.5,Timothy Vang,Child,UNJOGB8O,Priority Customer,Senior Citizen
+698893bb-32f4-4685-83ab-e9f909dfef0c,Kayla Lewis,72,Other,"105 Brittany Valleys
+Lake Williamborough, OH 41075",001-759-523-3947,brianmiddleton@moore.com,Medium,Salaried,098b5c25-1482-4878-81a9-3bb208cc54f8,Bank D,2023-02-20,2033-02-20,515416,7.8,Monthly,1092308.98,10,2,No,Online Transfer,Withdrawn,,0,0,Larry Horton,Child,JUPBGB79,Priority Customer,Senior Citizen
+80bcc989-2078-444b-bdd5-5e2d6c2c65e1,Joseph Hinton,34,Other,"45266 Donald Villages Suite 607
+Port Alyssa, PA 62545",013-916-1033,colin05@hotmail.com,High,Self-Employed,d7cab0c7-a95a-42a2-833c-d5a7fce0ae0f,Bank A,2020-09-12,2030-09-12,214998,7.2,Monthly,430905.73,10,2,Yes,Cheque,Active,,0,0,Alexis Perkins,Parent,RJSHGBHM,Regular Customer,General Citizen
+c1f02258-6378-4d12-ad8e-a41bb0203e9c,Samuel Crosby,23,Female,"Unit 1621 Box 8173
+DPO AE 86513",+1-613-007-0288x3127,dustin90@smith-walsh.biz,High,Salaried,9d95fbe8-2fb1-4f7b-ab2c-64160ca0fcbb,Bank D,2024-01-05,2025-01-05,289479,7.2,Annually,310321.49,1,2,Yes,Cheque,Withdrawn,,4167,0,Robert Robbins,Friend,ORVCGBQT,Regular Customer,General Citizen
+d5fffb44-4507-4b71-9c51-39e75129c1dc,Tracie Meyer,43,Other,"67116 Cody Prairie Suite 296
+Laurenmouth, MS 25442",001-714-998-1994x718,sandra88@hotmail.com,Medium,Self-Employed,1778243d-31d8-4c39-8641-2f1d86cee44c,Bank B,2023-12-15,2033-12-15,666249,7.2,Annually,1335317.14,10,2,No,Cash,Active,2022-08-01,1177,0,Reginald Mcfarland,Friend,VEQUGBDF,Regular Customer,General Citizen
+726ef59c-7f2c-45c0-b376-1b8371cbdb41,Barbara Odom,53,Female,"6615 Blackwell Union Suite 047
+West John, MS 68341",868-418-8623x24972,woodsnancy@coleman.com,Medium,Retired,61de8f1b-bf02-46dc-a85b-eda16b82e4fb,Bank B,2024-03-17,2029-03-17,375016,7.2,Annually,530913.45,5,1,No,Online Transfer,Withdrawn,,0,37501.6,William Johnson,Child,HTIBGB2B,Regular Customer,General Citizen
+a2a189c2-1a30-42bc-a7f8-567c5f2b1573,Michael Huff,61,Other,"18208 Anthony Neck Suite 629
+South Albert, LA 67057",848-481-2982,batessean@harris.com,Low,Unemployed,6f0735ad-a56b-4836-8aed-c38861f92d70,Bank D,2024-12-01,2026-12-01,369591,7.8,Quarterly,429495.79,2,1,No,Cash,Matured,2022-08-12,0,0,Peggy Mclaughlin,Sibling,TTIAGBDQ,N/A,Senior Citizen
+8d56ff67-9058-4939-b592-68154234e193,Rachel Hooper,56,Female,"4103 Graves Loaf
+New Sylviafurt, WY 20685",424-765-7924x681,samanthakim@gmail.com,High,Unemployed,1c8b811e-d7d2-4257-a76a-b1c21f5d4449,Bank C,2024-02-19,2027-02-19,882801,7.8,Annually,1105908.25,3,1,No,Cash,Matured,,0,0,Tracy Campbell,Child,ZGZZGBIL,Regular Customer,Senior Citizen
+c314f911-38bd-4852-8ff6-9bacf75f0136,Robert Jackson,51,Female,"7003 Fields Orchard Suite 990
+Youngfurt, NM 11780",001-510-739-6600,brianherrera@yahoo.com,Low,Retired,6b37c326-2913-4f8a-8f47-cd875cb8fbf5,Bank C,2024-01-28,2034-01-28,574918,7.2,Annually,1152268.69,10,2,No,Cheque,Matured,,0,0,Cheryl Smith,Spouse,LORGGB5F,Regular Customer,General Citizen
+7ffd07a6-11ff-4685-818b-1f13f073a3ac,John Anderson,26,Other,"900 Barnett Extension Apt. 544
+Kristentown, TN 63368",(798)304-0999x9917,jeffrey54@yahoo.com,Medium,Unemployed,57b9af66-77de-40da-9830-d2321b7c39df,Bank B,2020-07-21,2023-07-21,448219,7.2,Annually,552172.3,3,3,Yes,Cash,Matured,2022-10-19,0,44821.9,Angela Perez,Parent,QNIHGBZ9,N/A,General Citizen
+2ee1d21c-129c-4875-9318-c0451b436796,Tonya Lewis,66,Other,"698 Brittany Flats
+North Richardville, NH 11110",+1-828-422-7747x054,robinsonlauren@ewing-thomas.org,Medium,Salaried,5eb169f3-1283-45ba-9a67-6088b6f0bc7e,Bank A,2023-03-12,2028-03-12,880363,7.8,Quarterly,1281609.11,5,3,No,Cheque,Matured,2022-11-14,0,0,Denise Parker,Friend,BCMAGBVN,N/A,Senior Citizen
+8d943b83-8475-48f1-8955-e4ebc60be88b,Grace Duran,44,Other,"19295 Stokes Turnpike Apt. 684
+South Paige, GA 49530",001-929-623-7296x02380,phartman@wilkins-henry.com,Low,Salaried,cac55f1e-c819-4daf-b91e-c84223692dc4,Bank C,2021-04-25,2026-04-25,872135,7.2,Annually,1234689.18,5,1,No,Cheque,Active,,0,87213.5,Mallory Jones,Spouse,UDFJGBD7,Regular Customer,General Citizen
+c912708f-2716-44a3-820b-89619128d19f,Brendan Ruiz,51,Male,"56608 Chloe Ramp Apt. 083
+Lake Gabrielle, AR 49819",(262)556-1183,ablack@gmail.com,High,Salaried,0d6a3fab-ce2a-481f-a2cc-8bf7dd716cb3,Bank A,2021-07-23,2023-07-23,664690,7.2,Annually,763851.11,2,2,No,Cheque,Matured,,0,66469,Jason Andersen,Friend,NSWOGBQN,Priority Customer,General Citizen
+8a8e12f6-cf77-42ad-90d9-a88f44611667,Wendy Jones,60,Other,"033 Jones Knoll
+Debratown, ND 64698",835-194-3642,antonio19@hotmail.com,High,Salaried,6d8645ba-96ab-42f7-9349-52604b79df48,Bank B,2024-07-08,2034-07-08,981667,7.8,Quarterly,2080423.74,10,3,Yes,Online Transfer,Matured,,0,98166.7,Jonathan Davis,Spouse,OAEEGBCH,Priority Customer,Senior Citizen
+6b09a504-388a-4895-b491-231b0d37367b,Christopher Cross,62,Female,"18255 Faith Wall Apt. 647
+Karlshire, GA 43930",(682)575-3400x45305,russelllouis@hotmail.com,Medium,Retired,10211efb-9d6e-4641-a9f9-b5f85110d97e,Bank D,2021-08-25,2023-08-25,851150,7.8,Monthly,989107.8,2,1,Yes,Online Transfer,Active,2024-12-25,3110,85115,Robert Watts,Friend,FLQIGBWD,Priority Customer,Senior Citizen
+009db7bd-1b7a-4fe5-9382-a72bd7b6cb6f,Sara Hayes,80,Female,"841 Marks Lodge Suite 750
+Gregorychester, AL 36387",(078)982-6237x577,mstevens@young-montoya.org,Medium,Self-Employed,18b53ca0-e750-43f1-b2ab-cb4e7c51ea37,Bank D,2020-09-15,2025-09-15,458302,7.8,Quarterly,667183.9,5,1,No,Online Transfer,Active,2023-06-23,0,0,Bobby Dixon,Parent,WQJXGBFT,Regular Customer,Senior Citizen
+b2adbaa2-6038-4b58-816b-6f2d7d0394de,Andrea Bradford,71,Other,"1828 Rebecca Place Suite 998
+Scottmouth, PA 20901",001-740-711-8940x4117,thomasgreen@gmail.com,Low,Self-Employed,3e659c07-0b52-4afc-a133-4ffa2e5a079e,Bank B,2024-04-26,2025-04-26,167797,7.8,Annually,180885.17,1,1,No,Cheque,Active,,1805,0,Peter Chapman,Friend,QVXYGBV5,Regular Customer,Senior Citizen
+3da0672c-77da-4892-a9ff-33ad35a40a96,John Nichols,73,Male,"6338 Mckee Port Suite 024
+Bakerborough, FL 75135",(673)284-9552x89794,molly14@gmail.com,Low,Retired,a5bf9ee4-9b64-460e-a431-8f473d8fa3d9,Bank D,2021-12-30,2031-12-30,673587,7.8,Annually,1427517.05,10,2,Yes,Cheque,Withdrawn,,0,0,Shannon Christensen,Friend,SFAAGBS9,Regular Customer,Senior Citizen
+389b9b10-e993-4a7c-8993-29a2ef5d39e7,Jaime Hicks MD,66,Other,"0013 Allison Union
+Brownborough, TX 59922",094-340-0788x67467,ylynn@gmail.com,Medium,Retired,8eb8c70c-12b5-4df3-9aa3-c2586dacaab4,Bank A,2021-04-23,2024-04-23,127433,7.8,Monthly,159638.7,3,3,Yes,Cheque,Matured,,0,0,Tanya White,Spouse,MLOXGBGA,Regular Customer,Senior Citizen
+869cc386-160e-4b14-9d96-79b3fee7c928,Edwin Gaines,56,Female,"29236 Clarke Path
+Lisafurt, CT 22277",(811)054-0686,trevorsoto@hotmail.com,Medium,Unemployed,f3f8cf73-b9f6-4ea7-b4f0-f01f57e3491c,Bank A,2023-04-08,2033-04-08,812151,7.8,Monthly,1721172.47,10,3,No,Cash,Matured,,0,81215.1,Caroline Dominguez,Friend,MIDRGBQS,N/A,Senior Citizen
+c93b8761-d29f-4f65-bf15-5b547a4b8683,Christopher May,23,Male,"833 Veronica Drive
+Hallville, MD 66103",241-989-3720,nicoleserrano@flores.com,Medium,Unemployed,89d7643c-93b3-4c56-8b0d-6001ecb493d9,Bank C,2023-11-03,2033-11-03,347577,7.2,Monthly,696624.72,10,3,Yes,Cash,Active,,1508,34757.7,Jessica Johnson,Parent,YJLQGBF4,N/A,General Citizen
+465a0de5-0c79-4e5a-98b6-a530da3fe330,Ronald Chambers,62,Other,"1843 Chavez Common
+Kaylastad, AZ 58179",572-033-4906x241,ralphwagner@watson-williams.com,High,Self-Employed,397b02d2-801a-428c-9ce8-be20af97a6e7,Bank A,2023-01-16,2025-01-16,516961,7.8,Quarterly,600752.11,2,3,No,Online Transfer,Active,,3337,0,Rachel Castro,Friend,FFDUGBOZ,Regular Customer,Senior Citizen
+bc2aef17-f502-47f9-95e3-1b345ea26781,David Perez,32,Female,"396 Kennedy Village Suite 555
+Crystalchester, NY 44609",(837)552-5510x04420,yolandacampbell@yahoo.com,High,Salaried,3ccd8452-86d0-4b8b-870f-12b745f692ce,Bank B,2021-11-02,2023-11-02,835666,7.2,Quarterly,960334,2,2,Yes,Cheque,Active,,0,83566.6,David Vincent,Spouse,TJAPGB18,Priority Customer,General Citizen
+4c9f0ebf-0196-4a5a-a431-a0340abc14e8,Thomas Rangel,38,Other,"394 Marshall Way
+West Lauraside, KS 36865",001-105-739-9067x2201,yhall@brown.com,Low,Retired,97b2ba03-7475-40c9-923a-037d4ae56648,Bank B,2023-08-21,2024-08-21,682277,7.2,Quarterly,731400.94,1,2,Yes,Cash,Withdrawn,,4864,68227.7,David Taylor,Sibling,IRPPGBME,Priority Customer,General Citizen
+82aba6db-5daf-4959-9cd7-7562974be33a,Richard Moreno,18,Male,"68033 Kenneth Hill Suite 750
+Cynthiamouth, IN 52748",174-283-4839,peter73@hotmail.com,Medium,Retired,2891145f-c337-42ff-979b-c53577e5dc10,Bank A,2021-03-29,2026-03-29,572971,7.2,Annually,811160.08,5,3,Yes,Cash,Withdrawn,2023-08-17,0,57297.1,Brett Hawkins,Spouse,WRMFGBJO,Regular Customer,General Citizen
+a8e1396a-ff10-4042-a695-8de5ca980b3e,Jean Morris,31,Female,"3314 Nancy Circle Suite 981
+Nelsonton, TN 33259",(214)710-7010x8265,powersmary@king.com,High,Salaried,618f6a56-e953-4f33-99b1-5039c596e0a1,Bank A,2024-08-18,2026-08-18,862902,7.2,Monthly,991633.17,2,3,Yes,Online Transfer,Matured,,0,0,Anthony Santos,Sibling,FUUVGBOZ,Regular Customer,General Citizen
+b83ae9e0-d099-4343-9df7-d5e53b652606,Jeanette Brown MD,74,Male,"8971 Holly Station
+South Nathanville, OH 29007",434-399-0026x73541,lauren86@yahoo.com,Low,Retired,20ae6f3f-2449-4133-a1d2-96ae5f2244bd,Bank C,2024-06-18,2026-06-18,524833,7.8,Monthly,609900.03,2,1,No,Cash,Matured,2025-01-12,0,0,Jennifer Hill,Parent,JPHRGBA0,Priority Customer,Senior Citizen
+db3745a6-80d5-4059-ae69-2572c19d803d,Beth Cooley,49,Male,"87805 Derek Glens
+Pollardberg, IN 65118",080-146-9605,wshaw@mcdaniel.com,High,Salaried,cd1985b7-c2da-4bdd-89e8-38d1ea1567c9,Bank D,2021-07-05,2031-07-05,121105,7.2,Annually,242722.44,10,1,No,Cheque,Active,,0,12110.5,David Taylor,Spouse,LYAJGBBD,Priority Customer,General Citizen
+5a5d6f2b-244c-4c10-bc97-a414ed1dc0d4,Christopher Trevino,66,Male,"48742 Brittney Camp
+West Justin, DC 94062",487-185-1040x5938,nicole80@moore.com,Low,Self-Employed,ffd55254-148c-413d-9cad-b446257874dd,Bank C,2024-02-02,2026-02-02,700256,7.8,Quarterly,813756.29,2,1,Yes,Cash,Active,,1888,0,Lucas Hughes,Child,DSHIGBVH,Regular Customer,Senior Citizen
+a4386f41-0065-4162-aa92-e29312bee40a,James Dyer,53,Female,"2130 Austin Lodge
+East Eugene, WA 04453",012-297-7993x13326,douglasschwartz@trujillo.com,Medium,Unemployed,ac538fd7-3e2b-4498-9e11-3907dc068898,Bank D,2024-09-21,2027-09-21,283814,7.2,Quarterly,349637.63,3,2,No,Cheque,Active,,0,0,Robin Parks,Child,PUNGGBE3,Regular Customer,General Citizen
+f661fa46-2d5a-4c89-ae0d-5e3173cfe97d,Jason Wiley,40,Male,"PSC 9170, Box 5537
+APO AP 48309",001-050-379-2381x2243,loriharris@yahoo.com,Medium,Self-Employed,a277043e-050e-46a6-a5f5-cf42ff6f4c4a,Bank A,2022-07-06,2032-07-06,731335,7.2,Quarterly,1465764.54,10,3,Yes,Online Transfer,Active,,0,73133.5,Gary Hicks,Spouse,ADDTGBU4,Priority Customer,General Citizen
+f2e04d1c-cea6-4dc4-a098-0b619a126108,Sherri Esparza,50,Male,"57843 Lauren Garden Suite 969
+Reneeshire, WA 96094",(131)568-3662x68476,cbarrett@yahoo.com,High,Retired,405e0e8f-3604-4889-8e37-4922f1d6696f,Bank D,2020-01-22,2022-01-22,730560,7.2,Quarterly,839547.86,2,3,No,Cheque,Withdrawn,,0,0,Tim Munoz,Parent,UKWRGB7W,Regular Customer,General Citizen
+537881b6-50de-44c2-b290-279a7e03aa80,Jason Hall,49,Male,"PSC 2664, Box 6926
+APO AP 39641",+1-522-157-9248x7787,michaelharrison@owens.biz,Low,Retired,84121821-35a0-4031-8249-862bceed6952,Bank D,2020-05-17,2025-05-17,15554,7.2,Quarterly,22019.93,5,1,No,Cheque,Matured,,1397,1555.4,Brittany Rogers,Parent,VWPHGBST,Regular Customer,General Citizen
+b43b9f7f-607f-4938-b274-ec02becabf52,Brian Freeman,31,Female,"006 Jacob Passage Suite 962
+Derekfurt, MT 12598",930.993.5621x4438,torreselizabeth@marshall.info,Low,Self-Employed,52855656-e0e6-4458-a947-e9383eb82dd1,Bank C,2022-04-21,2023-04-21,435976,7.2,Monthly,467366.27,1,1,Yes,Cash,Active,,0,43597.6,Kristen Short,Friend,TPPTGBXT,Regular Customer,General Citizen
+91073740-e0c8-4519-912e-16d67a0624b7,Denise Mendez,57,Male,"372 Sanchez Vista Apt. 655
+Lake Shannonville, NH 77790",001-606-242-2389x6068,prattheather@gmail.com,Low,Retired,e36b7c50-cd7b-414e-bc1f-35613777aead,Bank D,2023-07-02,2026-07-02,940435,7.8,Monthly,1178107.89,3,1,No,Cash,Matured,,0,0,Austin King,Sibling,AOZKGB1A,N/A,Senior Citizen
+40cf35e2-bd6d-4c5a-861f-7d256d91141b,Amanda Henry,41,Other,"4741 William Highway
+North Lisa, LA 32104",001-020-331-2492,hahnnancy@gmail.com,High,Retired,4aaabc98-8b0d-4c18-8f84-692cf89c775d,Bank A,2023-11-11,2024-11-11,423835,7.2,Annually,454351.12,1,1,Yes,Cash,Matured,2022-02-12,77,0,Jennifer Martinez,Spouse,SBNMGBK4,Regular Customer,General Citizen
+e29363b0-8a4e-4321-aefd-1205ac07476d,Michaela Brown,65,Other,"6673 Howard Fort
+East Samanthaland, MS 87094",+1-165-808-7890x26701,buchananjose@yahoo.com,Medium,Self-Employed,5bcfe713-8ef5-4b73-92e5-18746971a7e5,Bank C,2020-07-24,2022-07-24,542117,7.8,Monthly,629985.49,2,2,No,Online Transfer,Active,2022-05-07,0,54211.7,Robert Lucas MD,Sibling,GZDVGBUZ,Regular Customer,Senior Citizen
+2b0ec5a2-a311-4710-abac-e4ec78c647f1,Carlos Prince,58,Female,"453 Anderson Oval
+New Sarah, ID 98755",623-747-5837,sgomez@hotmail.com,High,Salaried,c2f6978e-2b25-41cb-aeba-8a852d16ccad,Bank C,2020-06-10,2022-06-10,89618,7.8,Quarterly,104143.64,2,3,Yes,Online Transfer,Active,,3765,8961.8,Randall Johnston,Child,JWUEGBZ7,Priority Customer,Senior Citizen
+473881cb-4807-4cb8-8c73-07b1ee1278d1,Gabriela Thompson,31,Other,"Unit 6302 Box 4772
+DPO AP 48971",290.026.0649,hvasquez@gregory.net,Medium,Retired,c07f64d1-8774-4f0c-a20c-96c103693c0d,Bank C,2021-08-22,2024-08-22,713920,7.2,Monthly,879496.07,3,1,No,Cheque,Withdrawn,,4878,0,Stacy Kelly,Child,FAHRGBL6,Priority Customer,General Citizen
+e928ee57-60da-44c4-be29-ae7d950dc1a8,Jacob Reynolds,80,Other,"7287 Sanchez Lock Suite 335
+North Sean, OH 42136",913.673.0513x69711,thompsontodd@gmail.com,Medium,Unemployed,61f446dc-5d26-4531-89e2-9dbf1487cfd3,Bank B,2021-05-18,2023-05-18,221694,7.8,Annually,257627.05,2,3,Yes,Cheque,Matured,,4601,22169.4,Jesse Coffey,Parent,HDUEGBFR,N/A,Senior Citizen
+d774b09f-aeba-4d93-b933-fc5f806c10a1,Jasmine Thompson,19,Other,"7398 Foster Unions
+West Nicholas, CO 06593",8044864137,michaelbrown@huber.com,Medium,Unemployed,771873d1-8941-48a1-9cb9-ff5f71aa6ddd,Bank B,2024-06-15,2026-06-15,238637,7.2,Annually,274237.82,2,1,Yes,Online Transfer,Withdrawn,,385,0,Mark Avila,Friend,RJTNGBPP,Priority Customer,General Citizen
+202b4ca7-88d0-4685-84d2-67cf7481f7d6,Joel Fuller,25,Female,"560 Jacob Hills Suite 983
+Garytown, TX 26208",(229)482-0689x11365,suzanne44@todd.com,High,Unemployed,56df14ff-ec62-406d-8270-ec2e83c244b3,Bank A,2023-08-15,2025-08-15,51188,7.2,Quarterly,58824.43,2,2,Yes,Cheque,Matured,,0,5118.8,Elizabeth Martin,Parent,PTMZGB2G,Regular Customer,General Citizen
+56a54a79-f468-4535-a474-0649da941340,Chelsea Watts,45,Male,"2925 Tate Via Apt. 260
+Lake Robertfurt, CT 01420",686.019.9499x434,stacy69@davenport.com,High,Retired,94669fc7-575e-424a-8e8e-b2caff999ce5,Bank C,2022-12-10,2032-12-10,402720,7.2,Monthly,807144.05,10,2,Yes,Online Transfer,Withdrawn,2020-07-26,0,0,Ashley Peters,Parent,DIKMGBYC,Regular Customer,General Citizen
+6ba1475e-ea07-45c7-9ae9-0bbdbbcf4730,Mark Wilson,57,Female,"PSC 4151, Box 2732
+APO AE 72149",(204)541-5792,erikwilliams@yahoo.com,High,Unemployed,19dc009b-3bb4-47e1-af0c-9a2361f27a59,Bank B,2020-04-18,2021-04-18,72117,7.8,Quarterly,77742.13,1,2,Yes,Cheque,Matured,,0,7211.7,Patricia Kane,Parent,JCEMGBPF,Regular Customer,Senior Citizen
+5a974c56-9e1e-48af-a22a-ee2c2900b509,Dr. Andrew Skinner MD,70,Female,"500 James Mews
+South Jessica, DC 90922",(347)277-9478,jonescraig@brown.org,Low,Self-Employed,5307730c-7dda-4c20-b786-3741bc83ede3,Bank B,2022-03-25,2024-03-25,208776,7.8,Monthly,242615.25,2,1,No,Cash,Active,2024-05-11,0,20877.6,Timothy Jordan,Parent,YMLGGB0K,Priority Customer,Senior Citizen
+972c4997-5f8a-468b-a21e-3b3e6d2f6202,Nathan Gordon,29,Female,"356 Graham Field Suite 225
+Greenberg, CT 65236",939-209-9518,brandonclark@yahoo.com,High,Retired,16ba2e18-f166-44c2-adbd-6253f287fb10,Bank B,2023-04-11,2033-04-11,311810,7.2,Monthly,624939.38,10,1,Yes,Cheque,Withdrawn,,0,31181,Yolanda Davis,Spouse,EIRCGBXB,Priority Customer,General Citizen
+1d3689e4-07ea-4b2e-b964-6d22d67be968,Tasha Mills,51,Male,"PSC 7355, Box 2078
+APO AA 54832",440-189-5103x073,ndrake@hotmail.com,Low,Retired,595ab9f5-8593-429d-aa0a-c6d9514e4ad9,Bank C,2021-04-29,2031-04-29,598585,7.2,Annually,1199702.83,10,1,No,Cheque,Withdrawn,,0,0,Ethan Mueller,Child,YIGTGBI6,Priority Customer,General Citizen
+28b1ed42-ae42-4870-b827-670cc5cbddc9,Sean Adams,65,Male,"80901 Gutierrez Flat Apt. 055
+North Madisonmouth, HI 33732",161-896-8801,morafrancisco@gmail.com,Medium,Salaried,cd8f59b0-9fa3-4138-82da-af163b6f4c6e,Bank B,2021-07-06,2026-07-06,830166,7.8,Annually,1208533.65,5,1,No,Cheque,Active,2022-07-27,4428,0,Kimberly Baker,Spouse,BUASGB5W,Regular Customer,Senior Citizen
+0c67fb4a-4c80-41ae-b259-ac49ee273560,Julie Johnston,69,Female,"52478 Cross Springs Suite 493
+East Patrick, VA 24589",435.479.8845,whitneyallison@yahoo.com,High,Retired,fe8aae63-bfa4-47aa-beb7-b049416c3ab6,Bank A,2022-03-09,2027-03-09,810492,7.8,Monthly,1179892.76,5,3,No,Online Transfer,Matured,,0,0,Derek Velasquez,Sibling,KFKUGBJA,Priority Customer,Senior Citizen
+53db5dc9-9ead-44cb-b6fd-561a93da441c,Tara Fisher,21,Other,"8294 Adrian Valley Suite 518
+East Jessicahaven, KY 36050",+1-916-171-2719x9852,vhenderson@yahoo.com,High,Salaried,97693176-43f7-4544-a120-b09c24c6cc30,Bank B,2022-12-22,2027-12-22,882973,7.2,Quarterly,1250032.63,5,1,Yes,Online Transfer,Withdrawn,,0,88297.3,Ashley Francis,Sibling,FKATGBIX,N/A,General Citizen
+b63f58fe-c84f-412b-b61f-fe23951b6aa9,Brian Williams,29,Female,"7837 Tiffany Rest Suite 247
+Charleston, MI 61323",723.588.3247x621,andrea66@yahoo.com,Medium,Retired,617db1f8-3d7a-48c2-bb42-a2f949b2b6d2,Bank A,2020-10-23,2023-10-23,330941,7.2,Annually,407694.57,3,2,No,Cash,Withdrawn,,0,0,Tracy Sanders,Sibling,BIEJGBY4,Priority Customer,General Citizen
+bb05d32e-bca4-4dda-8fe8-28f8ce3c629d,Cynthia Johnson,63,Other,"USNV Barnes
+FPO AE 76038",4263150554,csims@stewart.com,High,Retired,5ebfa7f4-a13b-44cf-a6f2-9b359bdbe7ae,Bank A,2022-10-16,2025-10-16,542698,7.8,Annually,679852.19,3,3,Yes,Cash,Matured,2022-08-08,0,54269.8,Laurie Summers,Parent,LUEYGBT6,N/A,Senior Citizen
+831af379-e219-4d19-b4df-21e0773053d1,Mr. Jared Pham,58,Male,"70752 Tanner Stream Suite 541
+West Lawrenceland, MT 77376",487-754-4906x6762,smorris@hotmail.com,Medium,Retired,33b5d9f0-4901-42f2-b06b-a75970b84464,Bank B,2023-12-26,2025-12-26,491099,7.8,Quarterly,570698.29,2,2,Yes,Cheque,Matured,,3476,0,Sandra Costa,Friend,VHAQGBYO,Regular Customer,Senior Citizen
+4288bc3f-9b63-4f84-a0d2-99b3e0cf7444,Catherine Larson,24,Male,"14299 Villa Ville Suite 347
+Katrinaton, FL 36531",872.050.4542x809,wardfrancisco@gmail.com,High,Unemployed,8ac9f44b-62d9-46dc-b55a-aa5a42ff11ae,Bank B,2020-12-11,2030-12-11,43902,7.2,Quarterly,87989.77,10,3,No,Cash,Matured,,4866,4390.2,Kylie Edwards,Sibling,VTJQGBDQ,Regular Customer,General Citizen
+1b79ce44-890e-4d50-a6d9-528ef783fc45,Matthew Bond,73,Male,"04469 Jessica Club
+Smithshire, ND 41472",+1-438-804-1078x0759,arnoldanthony@walker-goodwin.info,Medium,Salaried,bc60f496-a0e8-4e95-9b68-b482cb0e6fa6,Bank C,2023-01-17,2024-01-17,276218,7.8,Quarterly,297763,1,3,Yes,Cash,Matured,2021-10-26,3622,0,Joseph Moore,Sibling,ETXEGBNI,N/A,Senior Citizen
+e982720c-70f3-4b8b-be89-9d90e9d4be40,Sarah Cook,77,Male,"244 Douglas Plains
+Christensenville, IA 88178",673.019.2652x2938,tylerrodriguez@yahoo.com,Medium,Unemployed,b45b59f9-6e19-4714-a901-bcf079786f99,Bank B,2022-05-29,2024-05-29,371580,7.8,Annually,431807.17,2,3,Yes,Cash,Active,,0,37158,Sandra Bell,Sibling,WEBTGBCJ,Priority Customer,Senior Citizen
+76ccec95-f038-4f8a-a16c-0df762e248aa,Olivia Johnson,75,Male,"USS Simon
+FPO AA 53708",522-024-0885,megan67@yahoo.com,Low,Self-Employed,f7a03a68-4391-407e-944e-1a9e67f40892,Bank C,2020-02-29,2030-02-28,62673,7.8,Quarterly,132821.41,10,3,No,Online Transfer,Matured,,0,6267.3,Raymond Clark,Spouse,PBIYGB32,N/A,Senior Citizen
+c5cd8d8f-771f-4409-bdff-538ca2cc62d2,Tiffany Vega,69,Female,"8290 Hall Avenue
+New Davidburgh, WI 69920",001-881-135-8917x0108,sgreen@hotmail.com,High,Unemployed,f05ae05e-bd97-4de7-a3ce-32c6ff31241a,Bank D,2020-09-29,2025-09-29,659345,7.8,Annually,959856.97,5,1,No,Cash,Active,,1234,0,Veronica Hubbard,Spouse,YTAOGBQO,Priority Customer,Senior Citizen
+b0edb3bf-10cd-49cb-9cfc-9b7bcdfa9f08,Patrick Pacheco,25,Female,"7221 Elizabeth Lake Suite 237
+Millerfurt, AK 45184",939.609.8440x0654,robert85@jensen.com,High,Self-Employed,ab9487ea-c26e-4c2d-92a5-670cebbfcd3d,Bank A,2021-07-14,2022-07-14,971922,7.2,Quarterly,1041900.38,1,1,No,Cash,Matured,,0,97192.2,Justin Cochran,Sibling,JAQDGBJF,Regular Customer,General Citizen
+bce0d1b1-f450-4731-8a02-198f547f5f81,Carl Summers,68,Male,"428 Anderson Highway
+Salazarhaven, NE 65072",(822)144-1618,zanderson@hicks.com,Low,Retired,22d99312-a0ad-43d9-a741-d4aefc11c985,Bank B,2020-02-18,2025-02-18,624326,7.8,Monthly,908877.24,5,3,Yes,Cash,Matured,2021-11-06,0,62432.6,Linda Mcpherson,Sibling,AQQVGBHA,Priority Customer,Senior Citizen
+fd8a74df-50cd-42e9-a743-be513b281109,Mary Steele,54,Other,"827 Ricky Meadow Suite 819
+Patrickmouth, HI 01393",584-342-4584,wendy48@moran-khan.com,High,Self-Employed,7c99b32d-ff05-4ba5-af8c-0a38d04c1005,Bank C,2024-04-08,2025-04-08,550377,7.2,Quarterly,590004.14,1,3,No,Online Transfer,Active,2024-04-16,4795,0,Matthew Hernandez,Friend,PWQKGBKY,Priority Customer,General Citizen
+c1a0e839-643a-4134-870b-2b871bfec8ad,Kyle White,51,Female,"699 Steven Port
+North Adamland, VT 55336",001-275-258-6574,brittanydavenport@hotmail.com,Low,Self-Employed,110c8c15-ce5b-4827-911e-f8c192d09a06,Bank C,2020-02-21,2022-02-21,631212,7.2,Annually,725378.73,2,3,Yes,Cash,Matured,,4711,63121.2,Drew Fischer,Child,CLTIGBZV,N/A,General Citizen
+6ad0a6f7-4a40-4a86-b723-d6838e3bcb55,Amber Hopkins,57,Male,"305 Donna Stream
+East Ashley, WA 04256",001-845-465-0155,gloveranthony@hunter.org,High,Self-Employed,a0b24100-7f93-41aa-ba7e-119be560416f,Bank C,2020-11-06,2023-11-06,712027,7.8,Quarterly,891975.13,3,3,Yes,Cash,Active,,1876,0,Michael Roberson,Spouse,UJVXGBZH,N/A,Senior Citizen
+94af2cbd-4c89-4889-a888-f00ad1ffe684,Angela Carrillo,53,Male,"08579 Edwards Isle Apt. 949
+Welchton, OK 69592",619-517-8781x16413,taylorangela@gmail.com,Low,Retired,1d78c7b3-ebc6-407b-a8ed-cddae4718693,Bank C,2021-12-22,2026-12-22,162204,7.2,Monthly,229633.63,5,1,Yes,Cheque,Withdrawn,,0,16220.4,Christopher Thornton,Sibling,HBEIGBYR,Priority Customer,General Citizen
+d250a3be-0091-499e-aeca-f2fc1fb5e2ec,Mr. Jeremy Craig,31,Male,"9059 Gomez Expressway
+South Danielland, CA 73964",353-168-4664,paul84@castillo-may.com,High,Salaried,7976d1d0-9837-4d36-b7ae-898d5d26b6b2,Bank B,2022-05-11,2023-05-11,907807,7.2,Quarterly,973169.1,1,1,No,Cash,Active,2022-10-06,0,90780.7,Stacey Roy,Sibling,ETRCGBJU,Priority Customer,General Citizen
+cada8e55-67f7-4696-913e-3c20806950f5,Sue Hartman,53,Male,"9312 Jesse Mountains
+East Nicole, KS 82109",0848392529,pjones@turner.biz,High,Salaried,047326f2-826c-49b5-a414-60309a4368d1,Bank A,2024-04-22,2027-04-22,938708,7.2,Quarterly,1156418.09,3,3,No,Cheque,Withdrawn,,4857,0,Jerry Lucero,Friend,UWIMGBWY,Priority Customer,General Citizen
+fc7b8285-61e2-4048-be83-6d94f0d045e3,Shelley Cruz,33,Male,"3646 Strong Prairie
+Buckleyburgh, VA 89391",001-262-205-8909x51169,jill65@armstrong-wilson.com,Low,Retired,58605d1e-47e8-49a7-8289-ab7b9a55efd0,Bank B,2024-07-25,2026-07-25,256252,7.2,Annually,294480.7,2,1,No,Cash,Matured,2020-12-13,4063,0,Mr. Eric Sanford Jr.,Sibling,GQDIGBIQ,Priority Customer,General Citizen
+30671367-69cd-4826-b446-97fcb5b6e889,Stephen Davis,43,Other,"8198 Hannah Manor Apt. 475
+Briantown, NM 88188",(679)417-1240,stephaniemiranda@gmail.com,Low,Unemployed,145a9e3b-fa2e-4dac-b9e1-7a90ac0f6eb0,Bank B,2020-01-29,2025-01-29,914501,7.2,Annually,1294667.1,5,2,Yes,Online Transfer,Withdrawn,,0,91450.1,Christopher Barajas,Child,LLSLGBNN,N/A,General Citizen
+0e694a2a-e87d-470f-b7fb-d8e5e853e452,Paula Blanchard,72,Female,"98318 Lucas Harbors
+New James, NM 50700",+1-492-461-1441x0200,cburton@hotmail.com,High,Unemployed,f2686fca-2d3e-40e2-8acc-329039b5e4a0,Bank D,2021-05-04,2026-05-04,368973,7.8,Quarterly,537141.11,5,2,No,Online Transfer,Matured,,2189,36897.3,Kelsey Huff,Friend,HCMQGBO7,Regular Customer,Senior Citizen
+2fec8116-558e-47e3-b936-5a3bbbcb7cf2,Valerie Mckinney,55,Female,"688 Anthony Trace Suite 517
+Smithburgh, WY 81994",632-728-7457x4201,rachel81@rubio-white.com,Medium,Salaried,90d06d30-255b-452a-912e-d3c6fa1031ae,Bank C,2021-09-07,2031-09-07,976153,7.8,Monthly,2068738.05,10,1,No,Cash,Active,,0,0,Gary Taylor,Sibling,UXHGGBLT,N/A,Senior Citizen
+94f39fff-7ad0-40e2-8aeb-358081701c2c,Jonathan Reed,27,Male,"4228 Laura Vista Apt. 072
+New Timothy, TN 50530",679.412.3360,laurabarnes@williams-hood.com,Medium,Unemployed,9788df33-7a52-4879-887c-5c7398d299ce,Bank A,2021-10-13,2024-10-13,83963,7.2,Monthly,103436.14,3,1,Yes,Cash,Withdrawn,2022-01-06,0,0,Christine Sims,Friend,LFQAGBXM,N/A,General Citizen
+fba4a295-4f26-48eb-928b-240bbe84c49a,Sierra Bates,46,Female,"71740 Mary Garden Suite 903
+South Mike, FL 85003",912-121-6781,whitepaul@gmail.com,High,Self-Employed,1bc9ad01-520a-4887-8ca3-6459e0dfa2aa,Bank B,2023-02-03,2025-02-03,919153,7.2,Annually,1056275.92,2,3,No,Cash,Matured,2021-04-28,0,0,Allison Watson,Child,CHMHGB8I,N/A,General Citizen
+97ddf45b-6235-445d-ac9c-63505d717e46,Brian Wilson,62,Male,"3792 Ann Square
+Samanthaton, MA 39875",(138)811-1124,michelle28@edwards.com,Medium,Self-Employed,477d3632-9fd6-4753-b9cb-d531a86436f2,Bank B,2020-03-04,2021-03-04,54736,7.8,Quarterly,59005.41,1,2,No,Cash,Withdrawn,,21,5473.6,Jeremy Roy,Sibling,NTPSGBY4,N/A,Senior Citizen
+a2b84fd9-1494-4b66-9aa3-fb5a974dc37c,James Wilson,56,Other,"7217 Wright Mall
+Port Lindsey, AZ 94985",001-565-358-9615,qsmith@yahoo.com,High,Salaried,be6067aa-fbe0-4741-b78d-34b1da75e7e1,Bank A,2021-12-05,2024-12-05,813777,7.8,Annually,1019440.06,3,1,No,Cash,Withdrawn,,3487,0,Gary Murphy,Parent,POBIGBBV,Priority Customer,Senior Citizen
+d6388bdf-2589-4cde-9c89-7af1ccc3b74e,William Brown DVM,63,Male,"19494 Gonzalez Summit Apt. 524
+Dunlapside, CT 53502",(627)388-1563x1873,fsantos@yahoo.com,Medium,Unemployed,c441f01c-aed2-4827-a54d-f1c4a5fc3de6,Bank D,2023-05-26,2024-05-26,260970,7.8,Quarterly,281325.66,1,1,Yes,Cash,Matured,2020-04-22,0,0,Jordan Hunter,Sibling,SACLGB1P,N/A,Senior Citizen
+39e08744-149f-486a-a7f3-d72db5804106,Melissa Chandler,64,Female,"7673 Sims Heights Suite 078
+Port Nicoleton, GA 82516",173-456-2933x326,yvaughn@sanchez.biz,High,Unemployed,64632f9b-93cf-405b-bb11-f2ecdfb1cf44,Bank A,2024-12-04,2034-12-04,119952,7.8,Quarterly,254211.45,10,2,No,Cheque,Active,2024-12-16,3705,0,Amy Smith,Friend,KSALGBBY,Priority Customer,Senior Citizen
+48d153bf-8922-4df0-85b4-fe9336e07517,Gregory Cooper,71,Male,"Unit 6351 Box 2347
+DPO AP 53707",(067)817-5433,michaelpena@burns.com,Low,Salaried,c6f53280-91ce-4c2f-a5c4-155e3c88a9ee,Bank D,2020-12-23,2025-12-23,610703,7.8,Annually,889045.23,5,3,No,Online Transfer,Withdrawn,,0,61070.3,Robert Adams,Child,VOYNGBA5,Priority Customer,Senior Citizen
+4c1020c1-aa07-4a97-97f7-886fb8d80268,Mrs. Susan Kennedy,73,Female,"383 Melissa Spurs
+New Edward, NV 33644",(976)572-2449x2131,deanna05@yahoo.com,Low,Salaried,b98dfe32-4251-4a9a-ad1c-a09bd720c54f,Bank C,2024-10-09,2025-10-09,744896,7.8,Monthly,802997.89,1,3,No,Cheque,Matured,2024-05-16,3752,0,Kevin Ramirez,Sibling,PXFEGBU3,N/A,Senior Citizen
+e456660a-0914-4483-8e62-e2cd24ccbf9b,Catherine Campbell,75,Male,"307 Charles Mall
+Cookview, MS 06673",001-283-005-7695x1866,james09@brown.com,Medium,Retired,d40cac43-e45d-4db6-af3f-87ea6b21fc15,Bank B,2021-04-15,2023-04-15,354657,7.8,Quarterly,412141.23,2,1,No,Cheque,Active,2021-03-01,0,35465.7,Ryan Delacruz,Parent,HICZGBGR,N/A,Senior Citizen
+f16a3060-7138-4d50-a328-f7c6fe97bda2,Erin Johnson,35,Female,"05557 Gonzalez Pine Suite 064
+East Brandon, OK 18271",(572)118-4861x9738,lhenry@gmail.com,Low,Retired,bdab1ace-76a1-48d5-afcc-5c42df98881d,Bank A,2021-10-27,2026-10-27,349558,7.2,Quarterly,494872.33,5,3,No,Cash,Withdrawn,,0,0,Justin Gregory,Friend,FLZHGB7C,Regular Customer,General Citizen
+aa23ee0a-7cf6-47c1-9e97-792e5a523b2c,Jessica Cole,50,Female,"51085 Richmond Lock
+East Sheri, MN 28070",+1-030-410-1828x1874,muellerdenise@nguyen.info,High,Salaried,3390b1d4-2a9d-4627-8887-aa30ca4ac8fd,Bank B,2021-06-20,2031-06-20,304445,7.2,Quarterly,610178.22,10,2,No,Cash,Withdrawn,,0,0,Kimberly Kidd,Friend,ZVSVGB9S,N/A,General Citizen
+01195b9b-c98a-4221-b1eb-689d1ec37292,Ashley Perez,75,Male,"916 Hughes Oval Suite 152
+Lawsonmouth, AK 39665",+1-236-170-0356,xmartinez@gmail.com,High,Unemployed,b9f841c3-dd0d-4764-aa8a-9793e2af6a70,Bank B,2020-02-20,2030-02-20,547034,7.8,Annually,1159316.26,10,1,No,Cash,Withdrawn,,4222,0,Hailey Cooper,Friend,AMPQGBIX,N/A,Senior Citizen
+70ea1256-b15d-4ea9-9138-bd9c2e93fe46,Martha Anderson,62,Other,"91780 Lopez Lane Suite 818
+Delgadostad, NE 73917",9937544509,william19@vazquez.info,High,Unemployed,6aa2e5f5-2b77-4b6d-89d6-f9cd2623eb48,Bank B,2021-01-10,2022-01-10,323313,7.8,Annually,348531.41,1,1,No,Cheque,Active,2021-01-26,3036,0,Luis Jennings,Spouse,HPTTGBPV,Priority Customer,Senior Citizen
+37c8c5f2-93b2-412b-a101-9fc1c3a4a4f4,Ryan Turner,45,Other,"33567 Patrick Garden
+Austinborough, NC 74119",6594809179,ann67@turner.com,Medium,Retired,c701821a-97a4-4b69-b220-7082d9861e4d,Bank D,2020-05-09,2023-05-09,806709,7.2,Quarterly,993805.18,3,2,No,Cash,Active,,0,0,Miss Rhonda Johnson,Friend,CUEKGBJ5,N/A,General Citizen
+4837c2e6-3fa0-45ee-a504-d4ae782f3602,Kevin Gregory,27,Other,"USNS Smith
+FPO AA 66631",(057)347-7905x9282,matthewbrown@yahoo.com,High,Unemployed,ff9552a2-85d5-48a2-a108-315becca44f4,Bank A,2022-05-10,2025-05-10,839415,7.2,Annually,1034096.53,3,3,No,Cheque,Withdrawn,,44,0,Frances Meyer MD,Parent,MUHBGBVV,Priority Customer,General Citizen
+b1270bd9-3c16-4990-bb1d-fe84014934d2,Breanna Woodard,66,Male,"95583 Cheryl Overpass Apt. 195
+Vincentton, VA 83410",4563559355,ryanandrea@jones.com,Low,Retired,738a7774-799d-43af-a5de-95f1bb25b495,Bank B,2022-01-08,2024-01-08,628776,7.8,Annually,730690.53,2,2,Yes,Cash,Withdrawn,,0,62877.6,Willie Hill,Friend,JVZZGB3C,Priority Customer,Senior Citizen
+00b1d6e4-4846-4cbe-8770-185363b3fa4f,Melissa Jones,54,Male,"233 Christopher Squares Apt. 679
+Luceromouth, CA 04279",553-915-4721x1110,riveradavid@miles-jimenez.com,High,Unemployed,0b44b134-fa88-4ef8-95fb-907094a854e0,Bank A,2021-11-09,2026-11-09,325736,7.2,Monthly,461147.32,5,3,Yes,Cheque,Active,,0,0,Allison Parker,Friend,FXFZGB2P,N/A,General Citizen
+86495a32-8a72-40e8-998b-50853d8e998c,Mark Peck,68,Male,"4653 Martinez Hill Suite 651
+New Cindy, DC 88346",001-866-827-2268,keithsmith@hotmail.com,High,Unemployed,e7c45e72-a7af-49bd-bd5c-e37d93e3f5f6,Bank D,2022-09-18,2025-09-18,485652,7.8,Monthly,608389.16,3,1,Yes,Cash,Active,2020-08-01,0,0,Robert Stein,Friend,NCEYGBYD,Regular Customer,Senior Citizen
+8f0559ab-5374-4778-8136-fd4072e4f81a,Joshua Benjamin,39,Female,"463 Miller Crossroad Apt. 749
+Julieview, UT 32566",997.927.3931,jill15@mclaughlin.com,Medium,Salaried,aa5a2d2f-44f7-4985-80ea-340410b0a7de,Bank C,2021-07-08,2031-07-08,993056,7.2,Annually,1990313.98,10,2,Yes,Cheque,Withdrawn,,0,99305.6,Natalie Matthews,Friend,UJBTGBJ3,N/A,General Citizen
+858fee51-b00f-4435-b2b7-50087b04ca81,Shelly Thomas,47,Male,"6606 Richards Path Suite 836
+Hendersonburgh, KS 31340",001-949-673-6462x37104,garyhayes@yahoo.com,High,Unemployed,ae3b3e69-1dcf-4a29-8d3d-001e8e5e4191,Bank B,2020-01-27,2022-01-27,519152,7.2,Quarterly,596601.17,2,1,Yes,Online Transfer,Active,,0,0,Sarah Tyler,Friend,WEFEGBDL,Regular Customer,General Citizen
+d992f839-7219-43ce-bb7f-40580c541ec6,Shannon Cabrera,22,Male,"272 Valdez Crescent
+Port April, RI 17053",(987)514-9337x81925,anthonybailey@haynes-anderson.net,Low,Unemployed,bf56a994-a091-4e26-a34d-6ab0f338508f,Bank C,2020-11-04,2023-11-04,598292,7.2,Quarterly,737051.02,3,1,Yes,Cheque,Matured,,823,0,Cassandra Fowler,Friend,XLBKGBM6,N/A,General Citizen
+0caf3b9a-9afe-4d2f-b20d-1c126022dd49,Pamela Ellis,58,Female,"57929 Tara Manors Apt. 787
+New Darin, NH 31377",897-472-1999x13978,gmora@burnett.com,Medium,Unemployed,26a907d1-3acd-402c-87ce-8a73319b2dd8,Bank C,2021-12-23,2022-12-23,164641,7.8,Annually,177483,1,3,No,Cheque,Withdrawn,2021-09-30,492,0,Christopher Miranda,Parent,AQJQGB21,N/A,Senior Citizen
+713a389f-3532-4ad5-b175-52737806b388,Erin Flores,44,Other,"238 Choi Road Suite 475
+Grantberg, TX 33517",+1-716-812-9253,stephenskristen@mcgee-roberts.net,High,Salaried,5bb4b6c1-205f-4c6b-a35f-205c4f325b5b,Bank D,2022-06-22,2032-06-22,17118,7.2,Monthly,34308.43,10,2,Yes,Online Transfer,Withdrawn,,0,0,Kathleen Hawkins,Spouse,TUAZGBMI,Regular Customer,General Citizen
+e5c0e175-840f-416d-b9b6-bdc177e46b28,Brittany George,34,Other,"93645 Ryan Mews Suite 850
+Lake Johnstad, HI 44311",(602)616-8498x249,vwest@myers-clark.com,Low,Unemployed,e37fdf1b-0c0f-441e-8940-ce4b50fbf9ca,Bank C,2020-02-07,2023-02-07,909979,7.2,Quarterly,1121026.11,3,3,No,Cheque,Matured,,0,0,Mr. Sean Smith,Child,QDATGB9E,Priority Customer,General Citizen
+ac8a5e34-bbee-4114-bd41-82ef6afee676,Ryan Collins,62,Other,"Unit 6922 Box 0159
+DPO AE 60200",525.081.2510x9844,morrischristopher@hawkins.com,Medium,Retired,20962a7c-2df1-4f4e-bddd-8042e8a3048c,Bank A,2020-09-28,2025-09-28,916013,7.8,Monthly,1333507.43,5,2,No,Cash,Withdrawn,,0,91601.3,Kyle Pena,Child,FAZRGBR6,Regular Customer,Senior Citizen
+b57403f6-dba6-443d-82d7-1f3040e214ef,Michele Fowler,45,Male,"691 Potter Lane
+New Randy, ME 24603",9592665021,stevenbrandt@hotmail.com,High,Salaried,cb683180-59b1-416a-9db3-432c7da460c1,Bank D,2020-08-25,2025-08-25,667870,7.2,Annually,945509.43,5,2,Yes,Cash,Withdrawn,,3786,66787,Tracy Webb,Friend,MQLHGBTI,Regular Customer,General Citizen
+4863f8e2-7c20-486f-bc2f-96531499b8b8,William Hoffman,70,Male,"3229 Ashley Curve Suite 591
+North Melinda, WY 26486",(407)097-5521x614,hoodbetty@gmail.com,Low,Self-Employed,28b86eb9-0817-4f0d-a067-cf8192e83294,Bank C,2020-02-07,2022-02-07,606159,7.8,Quarterly,704407.68,2,1,Yes,Cheque,Active,,0,0,Andrew Huff,Child,PFDMGBLF,Regular Customer,Senior Citizen
+ba5d0ac7-61d5-4114-a9ad-34215c77d74d,Stephanie Moreno DDS,77,Other,"2712 Mathews Island
+Seanfurt, NV 04729",001-317-503-0464x336,mcampbell@hernandez.biz,Low,Self-Employed,f0e445e2-8a18-4ff6-9739-fc47d6a8a3d2,Bank D,2023-09-12,2033-09-12,780187,7.8,Quarterly,1653431.92,10,3,Yes,Cheque,Withdrawn,2024-07-11,4053,0,John Woods,Spouse,AMNXGB2M,Priority Customer,Senior Citizen
+7ccec975-3e7d-40ad-9133-6f7cd356d1bd,Krystal Burnett,74,Female,"7579 Dougherty Cliff
+Johnberg, KY 67315",001-381-172-3700x28447,dmartin@newton.com,High,Salaried,ed5ad3c1-4e31-410b-af7f-66f6daaaf630,Bank C,2022-06-10,2027-06-10,106600,7.8,Monthly,155185.45,5,1,Yes,Online Transfer,Withdrawn,,1569,10660,Jennifer Lucero,Friend,BFMHGBH7,Regular Customer,Senior Citizen
+90e2d2b5-1f58-4310-8298-76805b43c88a,Keith Lee II,51,Male,"1385 Elizabeth Camp Apt. 741
+Jessicaberg, MT 11673",001-443-789-7068x1635,shall@combs.com,High,Salaried,0a869a5f-1b1c-402a-b14f-7ff96f9b78e9,Bank B,2020-07-28,2021-07-28,942896,7.2,Quarterly,1010784.51,1,1,No,Cheque,Matured,,4748,94289.6,Aaron Garcia,Spouse,AZOYGB6C,Priority Customer,General Citizen
