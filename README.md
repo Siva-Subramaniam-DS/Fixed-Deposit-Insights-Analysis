@@ -1,61 +1,36 @@
-Here’s an overview of **AI**, **ML**, and **DL**:
-
----
-
-### **1. Artificial Intelligence (AI):**
-- **Definition:** AI refers to the simulation of human intelligence by machines. It encompasses any system or application that can perform tasks typically requiring human intelligence, such as reasoning, problem-solving, decision-making, and language understanding.
-- **Key Features:**  
-  - Perception (e.g., recognizing images, sounds, or objects).  
-  - Reasoning and learning from data or past experiences.  
-  - Decision-making and problem-solving.  
-  - Natural language understanding and generation (e.g., chatbots, translation).  
-- **Examples:**  
-  - Virtual assistants (e.g., Alexa, Siri).  
-  - Autonomous vehicles.  
-  - Recommendation systems (e.g., Netflix, Spotify).
-
----
-
-### **2. Machine Learning (ML):**
-- **Definition:** ML is a subset of AI that focuses on building systems that can learn and improve from data without being explicitly programmed. It involves designing algorithms that analyze data, identify patterns, and make predictions or decisions based on those patterns.
-- **Key Techniques:**  
-  - **Supervised Learning:** Models learn from labeled data (e.g., predicting house prices based on historical data).  
-  - **Unsupervised Learning:** Models find hidden patterns in unlabeled data (e.g., clustering similar customers).  
-  - **Reinforcement Learning:** Models learn optimal behaviors by interacting with an environment and receiving rewards/punishments.  
-- **Examples:**  
-  - Spam email detection.  
-  - Fraud detection in financial transactions.  
-  - Predictive maintenance in manufacturing.
-
----
-
-### **3. Deep Learning (DL):**
-- **Definition:** DL is a subset of ML that uses artificial neural networks (inspired by the human brain) to process data. It excels at handling large-scale data and complex tasks that involve high-dimensional inputs like images, text, or speech.
-- **Key Features:**  
-  - Utilizes layers of interconnected nodes (neurons) in neural networks.  
-  - Requires large amounts of data and computational power.  
-  - Excels in feature extraction and representation learning automatically.  
-- **Examples:**  
-  - Image recognition (e.g., identifying objects in photos).  
-  - Natural language processing (e.g., language translation, sentiment analysis).  
-  - Autonomous driving (e.g., detecting pedestrians, lane boundaries).
-
----
-
-### **Hierarchy Relationship:**
-**AI** ⟶ encompasses **ML** ⟶ encompasses **DL**
-
-In short:
-- **AI** is the broader concept of machines being "intelligent."
-- **ML** is a way to achieve AI by allowing machines to learn from data.
-- **DL** is an advanced form of ML, specialized in handling very large and complex datasets.
-
-
-Here's a detailed explanation of your code, which you can use in your README file. It includes an overview of each function, the steps performed, and the pros and cons of the code.
-
----
-
 ## Fixed Deposit Insights & Analysis App
+
+
+Here’s a **Table of Contents** you can include in your README file for the code:
+
+---
+### Table of Contents
+
+1. [Overview](#overview)  
+2. [Code Breakdown](#code-breakdown)  
+   - 2.1 [Dependencies and Initialization](#1-dependencies-and-initialization)  
+   - 2.2 [LLM Initialization](#2-llm-initialization)  
+   - 2.3 [LLM Query Handler](#3-llm-query-handler)  
+3. [File Upload and Preprocessing](#file-upload-and-preprocessing)  
+   - 3.1 [Upload and Validate CSV](#4-upload-and-validate-csv)  
+4. [Data Processing Functions](#data-processing-functions)  
+   - 4.1 [Filter by Citizen Type](#5-filter-by-citizen-type)  
+   - 4.2 [Calculate Insights](#6-calculate-insights)  
+5. [Sentiment Analysis](#sentiment-analysis)  
+   - 5.1 [Perform Sentiment Analysis](#7-sentiment-analysis)  
+6. [Visualization](#visualization)  
+   - 6.1 [Generate Visualizations](#8-generate-visualizations)  
+7. [Streamlit Integration](#streamlit-integration)  
+   - 7.1 [Streamlit App Layout](#9-streamlit-app-layout)  
+8. [Pros & Cons of the Application](#pros--cons-of-the-application)  
+   - 8.1 [Pros](#pros)  
+   - 8.2 [Cons](#cons)  
+9. [Artificial Intelligence (AI)](#1-artificial-intelligence-ai)  
+10. [Machine Learning (ML)](#2-machine-learning-ml)  
+11. [Deep Learning (DL)](#3-deep-learning-dl)  
+12. [Hierarchy Relationship: AI, ML, and DL](#hierarchy-relationship)  
+
+---
 
 ### Overview
 This application, built using **Streamlit**, provides insights, visualizations, and sentiment analysis of fixed deposit data for **General Citizens** and **Senior Citizens**. It integrates the **Ollama LLM** to allow users to interactively query the data for more insights.
@@ -232,4 +207,50 @@ st.sidebar.radio("Choose a chart type:", ...)
 
 ---
 
-This breakdown can be formatted into your README file for a comprehensive and professional explanation of your application.
+### **1. Artificial Intelligence (AI):**
+- **Definition:** AI refers to the simulation of human intelligence by machines. It encompasses any system or application that can perform tasks typically requiring human intelligence, such as reasoning, problem-solving, decision-making, and language understanding.
+- **Key Features:**  
+  - Perception (e.g., recognizing images, sounds, or objects).  
+  - Reasoning and learning from data or past experiences.  
+  - Decision-making and problem-solving.  
+  - Natural language understanding and generation (e.g., chatbots, translation).  
+- **Examples:**  
+  - Virtual assistants (e.g., Alexa, Siri).  
+  - Autonomous vehicles.  
+  - Recommendation systems (e.g., Netflix, Spotify).
+
+---
+
+### **2. Machine Learning (ML):**
+- **Definition:** ML is a subset of AI that focuses on building systems that can learn and improve from data without being explicitly programmed. It involves designing algorithms that analyze data, identify patterns, and make predictions or decisions based on those patterns.
+- **Key Techniques:**  
+  - **Supervised Learning:** Models learn from labeled data (e.g., predicting house prices based on historical data).  
+  - **Unsupervised Learning:** Models find hidden patterns in unlabeled data (e.g., clustering similar customers).  
+  - **Reinforcement Learning:** Models learn optimal behaviors by interacting with an environment and receiving rewards/punishments.  
+- **Examples:**  
+  - Spam email detection.  
+  - Fraud detection in financial transactions.  
+  - Predictive maintenance in manufacturing.
+
+---
+
+### **3. Deep Learning (DL):**
+- **Definition:** DL is a subset of ML that uses artificial neural networks (inspired by the human brain) to process data. It excels at handling large-scale data and complex tasks that involve high-dimensional inputs like images, text, or speech.
+- **Key Features:**  
+  - Utilizes layers of interconnected nodes (neurons) in neural networks.  
+  - Requires large amounts of data and computational power.  
+  - Excels in feature extraction and representation learning automatically.  
+- **Examples:**  
+  - Image recognition (e.g., identifying objects in photos).  
+  - Natural language processing (e.g., language translation, sentiment analysis).  
+  - Autonomous driving (e.g., detecting pedestrians, lane boundaries).
+
+---
+
+### **Hierarchy Relationship:**
+**AI** ⟶ encompasses **ML** ⟶ encompasses **DL**
+
+In short:
+- **AI** is the broader concept of machines being "intelligent."
+- **ML** is a way to achieve AI by allowing machines to learn from data.
+- **DL** is an advanced form of ML, specialized in handling very large and complex datasets.
