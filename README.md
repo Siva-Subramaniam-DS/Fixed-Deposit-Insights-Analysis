@@ -1,10 +1,7 @@
-## Fixed Deposit Insights & Analysis App
+### Fixed Deposit Insights & Analysis App
 
 
-Here’s a **Table of Contents** you can include in your README file for the code:
-
----
-### Table of Contents
+## Table of Contents
 
 1. [Overview](#overview)  
 2. [Code Breakdown](#code-breakdown)  
